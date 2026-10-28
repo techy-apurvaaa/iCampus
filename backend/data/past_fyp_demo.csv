@@ -1,0 +1,40 @@
+title,abstract,domain,technologies,year,source_url
+AI-Powered Smart Home Energy Optimizer,IoT system using machine learning to analyze energy consumption and automate appliances.,IoT,"Python, TensorFlow, Raspberry Pi, MQTT, Sensors",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Smart Healthcare Appointment Platform,Web platform for booking and managing healthcare appointments.,Web Development,"React, Node.js, MongoDB, Express",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+AI-Based Crop Disease Detection,Computer vision system for detecting crop diseases from leaf images.,AI,"Python, OpenCV, TensorFlow, CNN",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Blockchain-Based Certificate Verification,Tamper-resistant academic certificate verification platform.,Blockchain,"Solidity, Ethereum, React, Node.js",2022,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Student Attendance Management System,Digital attendance system for classroom records and reports.,Web Development,"React, Express, MongoDB, JWT",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+IoT Smart Irrigation Monitoring,Sensor-based irrigation monitoring and control system.,IoT,"Arduino, ESP32, MQTT, Node.js",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Cybersecurity Vulnerability Scanner,Tool for identifying common security weaknesses in web applications.,Cybersecurity,"Python, Nmap, Flask",2022,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Campus Navigation Assistant,"Interactive map for locating labs, departments and facilities.",Web Development,"React, Node.js, MongoDB, Maps API",2025,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Student Performance Analytics,Dashboard for analyzing academic performance patterns.,Data Science,"Python, Pandas, Power BI",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+AI Resume Screening Assistant,System for extracting and ranking candidate resume information.,AI,"Python, NLP, Flask, Scikit-learn",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Smart Traffic Monitoring System,Computer vision prototype for traffic flow monitoring.,AI,"Python, OpenCV, YOLO",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Online Learning Management Portal,"Course, assignment and progress management platform.",Web Development,"MERN, JWT, Cloudinary",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+IoT Air Quality Monitoring,Real-time environmental monitoring using connected sensors.,IoT,"ESP32, MQTT, Python, Sensors",2022,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Secure Online Examination System,Authenticated online examination and result management system.,Cybersecurity,"Java, Spring Boot, MySQL, JWT",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Mobile Campus Companion,Mobile app for campus announcements and student services.,Mobile,"Flutter, Firebase, Dart",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Cloud File Management System,Secure file storage and sharing platform.,Cloud,"AWS S3, Node.js, React, MongoDB",2022,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+AI Chatbot for Student Support,Conversational assistant for frequently asked academic questions.,AI,"Python, NLP, Rasa",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Smart Waste Classification,Image-based classification of recyclable waste.,AI,"Python, TensorFlow, OpenCV",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Library Management Portal,"Web system for books, borrowing and student records.",Web Development,"PHP, MySQL, Bootstrap",2022,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Network Intrusion Detection Dashboard,Dashboard for monitoring suspicious network activity.,Cybersecurity,"Python, Scikit-learn, Wireshark",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Blockchain Supply Chain Tracker,Traceability platform for tracking products through supply stages.,Blockchain,"Solidity, Ethereum, Node.js",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Personalized Study Planner,"Student planner for subjects, tasks and study schedules.",Web Development,"React, Express, MongoDB",2025,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Face Recognition Entry System,Computer vision based entry logging prototype.,AI,"Python, OpenCV, Face Recognition",2022,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Smart Parking Management,IoT-enabled parking occupancy monitoring system.,IoT,"Arduino, ESP32, Firebase",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Cloud-Based Student Repository,Centralized document and project management platform.,Cloud,"React, Node.js, MongoDB, AWS",2025,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Fraud Detection Using Machine Learning,Classification system for identifying suspicious transactions.,Data Science,"Python, Pandas, Scikit-learn",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Emergency Alert Mobile Application,Mobile application for emergency communication and alerts.,Mobile,"Flutter, Firebase, Google Maps",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Digital Hostel Management System,"Platform for hostel allocation, complaints and records.",Web Development,"React, Node.js, MongoDB",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Phishing Website Detection,Machine learning system for identifying suspicious URLs.,Cybersecurity,"Python, Scikit-learn, Flask",2022,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+AI-Based Sign Language Recognition,Vision system for recognizing selected hand gestures.,AI,"Python, OpenCV, TensorFlow",2025,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Smart Energy Meter Dashboard,IoT dashboard for monitoring electricity consumption.,IoT,"ESP32, MQTT, React, Node.js",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Research Paper Management Portal,Platform for organizing academic papers and submissions.,Web Development,"React, Node.js, MongoDB",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Cloud-Based Attendance Analytics,Attendance storage and analytics platform using cloud services.,Cloud,"AWS, Node.js, MongoDB",2024,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Secure Password Vault,Application for organizing credentials using secure authentication.,Cybersecurity,"React, Node.js, bcrypt, MongoDB",2022,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+AI-Based Fake News Classification,Text classification model for detecting misleading news.,AI,"Python, NLP, Scikit-learn",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+E-Library Mobile Application,Mobile access to digital academic resources.,Mobile,"Flutter, Firebase",2022,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Smart Agriculture Monitoring,Connected sensors for crop and soil monitoring.,IoT,"Arduino, ESP32, MQTT, Python",2025,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+Sales Forecasting Dashboard,Analytics dashboard for exploring sales trends and forecasts.,Data Science,"Python, Pandas, Power BI",2023,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
+DevOps Deployment Monitor,Dashboard for monitoring application deployment pipelines.,Cloud,"Docker, GitHub Actions, Node.js",2025,https://www.kaggle.com/datasets/nabeelqureshitiii/past-fyp-data
